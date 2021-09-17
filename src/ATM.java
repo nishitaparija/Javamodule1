@@ -1,17 +1,5 @@
 public class ATM {
-    public static void main(String[] args)
-    /*{ double withdrawal = 2400, with_amt;
-        float bal = 50000;
-        double acc_bal = bal - withdrawal;
-        if(with_amt == .5 withdrawal)
-        {
-            System.out.println("Withdrawal is feasible.");
-        }else{
-            System.out.println("Withdrawal not feasible.");
-        }
-        System.out.println("Account Balance = "+acc_bal);
-    }
-}*/ {
+    public static void main(String[] args) {
         //float bal = 30000;
         double withdrawal = 4500;
         double curr_bal = 30000;
